@@ -145,5 +145,22 @@ Six key findings, six prioritised recommendations, and a segment churn rate comp
 IBM Telco Customer Churn dataset — 7,043 customers, 20 features. Publicly available on Kaggle.
 
 ---
+## 📊 Key Insights
 
+- ~26% of customers are at risk of churning
+- Customers with **month-to-month contracts** have the highest churn rate
+- **High monthly charges + low tenure** strongly correlate with churn
+
+## 💰 Business Impact
+
+- Identified high-risk segments contributing to revenue loss
+- Estimated **revenue at risk** from churned customers
+- Enables targeted retention strategies to reduce churn
+
+## 🎯 Recommendations
+
+- Encourage long-term contracts with incentives
+- Focus retention efforts on new customers (<12 months)
+- Offer pricing optimization for high-charge users
+---
 *Built with Streamlit · scikit-learn · Plotly · pandas*
