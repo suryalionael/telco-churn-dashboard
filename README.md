@@ -1,6 +1,12 @@
 # 📡 Churn Intelligence Platform
 
 > A production-grade machine learning dashboard for predicting and analysing customer churn in the telecommunications industry.
+---
+
+## 🌐 Live Demo
+
+👉 **Try the app:**  
+https://telco-churn-dashboard-bmrduyjsncv7gif9rawzjz.streamlit.app/
 
 ---
 
